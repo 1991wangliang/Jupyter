@@ -1,0 +1,3 @@
+[submodule "tools_ipynb_to_jekyll"]
+	path = tools_ipynb_to_jekyll
+	url = https://github.com/nancynobody/tools_ipynb_to_jekyll.git
