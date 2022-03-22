@@ -39,7 +39,7 @@ plugins:
 exclude:
   # - tools/
   # - notebooks/
-  - README.md
+  # - README.md
 
 include:
   - assets/figures/
