@@ -2,4 +2,4 @@
 
 ## 基础操作
 
-* [pytorch 模型保存与加载](./pytorch/model_test.ipynb)
+* [pytorch 模型保存与加载](./_notebooks/model_test.ipynb)
