@@ -1,1 +1,7 @@
-ADDRESS,LOC,w,m,w,m=>m_1,m_2,,,
+# 数据解析说明
+# {input}=>{output}
+# input 为数据的输入词性
+# output 为数据的输出词性,output 为5部分组成，用`,`分割。分别为小区名称、楼号、单元、房间、姓名
+
+
+ADDRESS,LOC,w,m,w,m=>ADDRESS_1,LOC_1,m_1,m_2,
