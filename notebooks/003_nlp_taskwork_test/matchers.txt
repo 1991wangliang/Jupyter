@@ -3,5 +3,7 @@
 # input 为数据的输入词性
 # output 为数据的输出词性,output 为5部分组成，用`,`分割。分别为小区名称、楼号、单元、房间、姓名
 
-
+# 原数据格式:    壹号学府1号楼-1-1201
+# 词性数据:     ADDRESS,LOC,w,m,w,m
+# 解析规则:     ADDRESS_1,LOC_1,m_1,m_2,  --> ADDRESS_1第一个ADDRESS为小区名称,第一个LOC_1为楼号,第一个m为单元信息，第二个m为房间信息,姓名为空
 ADDRESS,LOC,w,m,w,m=>ADDRESS_1,LOC_1,m_1,m_2,
